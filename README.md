@@ -6,7 +6,7 @@ Built with:
 - Bootstrap
 
 Demo:
-https://github.com/user-attachments/assets/50156ca6-1814-4e46-8281-768a382b5c8e
 
+![Demo](./landing page.mp4)
 
 
