@@ -7,7 +7,7 @@ Built with:
 
 Demo:
 
-<video src="landing-page.mp4" controls width="600"></video>
+<video src="landing page.mp4" controls width="600"></video>
 
 
 
