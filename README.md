@@ -7,6 +7,7 @@ Built with:
 
 Demo:
 
-![Demo](./landing page.mp4)
+<video src="landing-page.mp4" controls width="600"></video>
+
 
 
