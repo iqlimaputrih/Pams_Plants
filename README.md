@@ -6,8 +6,5 @@ Built with:
 - Bootstrap
 
 Demo:
-
-<video src="./landing page.mp4" controls width="600"></video>
-
-
+![demo 1](https://github.com/user-attachments/assets/a7b54695-f34f-4ef6-9ccc-71947ce85881)
 
